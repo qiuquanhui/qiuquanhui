@@ -5,7 +5,12 @@
 * 🏠 博客 [CSDN](https://qiuqiu.blog.csdn.net/)
 * 🐂 作品 [API平台](https://github.com/qiuquanhui/api-backend) | [寻找队伍](https://github.com/qiuquanhui/myTeam-backend)
 
+  
 
+### ✨ 我的技能(my skills)   
+
+![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+          
 <!--
 **qiuquanhui/qiuquanhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

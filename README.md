@@ -1,4 +1,10 @@
-### Hi there 👋
+# 我是小辉
+
+* I am Java developer
+* 24 届毕业生
+* 博客 [CSDN](https://qiuqiu.blog.csdn.net/)
+* 作品 [API平台](https://github.com/qiuquanhui/api-backend) | [寻找队伍](https://github.com/qiuquanhui/myTeam-backend)
+
 
 <!--
 **qiuquanhui/qiuquanhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,7 @@
 
 * 💐 I am Java developer
 * 😎 24 届毕业生
+* 🔥 持续更新：[学习笔记仓库](https://github.com/qiuquanhui/JavaLearn/tree/master)
 * 🏠 博客 [CSDN](https://qiuqiu.blog.csdn.net/)
 * 🐂 作品 [API平台](https://github.com/qiuquanhui/api-backend) | [寻找队伍](https://github.com/qiuquanhui/myTeam-backend)
 
